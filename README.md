@@ -121,3 +121,6 @@ This implementation does not use any external libraries so unless we did not use
 ```
 python run.py
 ```
+
+### Example
+There is working example that involves both decryption and encryption on this [branch](https://github.com/bpluta/PaddingOracleAttack/tree/PicoCTF2018). This example is a solution for PicoCTF 2018 "Magic Padding Oracle" challenge.
